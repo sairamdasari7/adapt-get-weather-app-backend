@@ -18,21 +18,21 @@ This is a simple Node.js service that fetches and displays weather information f
 ### Clone the Repository
 
     ```bash
-  git clone https://github.com/sairamdasari7/adapt-get-weather-app-backend.git
-  cd weather-info-service
+    git clone https://github.com/sairamdasari7/adapt-get-weather-app-backend.git
+    cd weather-info-service
 
 
 ## Install Dependencies
 
     ```bash
-  npm install
+    npm install
 
 ## Running the Application
 
   - To start the application, run:
 
     ```bash
-  npm start
+    npm start
 
   -  By default, the service will run on http://localhost:3000
   -  URL (Render) - https://adapt-get-weather-app-backend.onrender.com/api/weather?city=hyderabad
