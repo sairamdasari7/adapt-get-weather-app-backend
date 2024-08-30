@@ -21,7 +21,8 @@ This is a simple Node.js service that fetches and displays weather information f
 git clone https://github.com/sairamdasari7/adapt-get-weather-app-backend.git
 cd weather-info-service
 
-## Install Dependencies
+
+### Install Dependencies
 
   ```bash
   npm install
